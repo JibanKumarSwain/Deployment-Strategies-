@@ -2,7 +2,7 @@
 
 ## we have 4 type of deployment strategies
 
-1- Recreare Deployment
+1- Recreare Deployment 
 
 2- Rollback Deployment
 

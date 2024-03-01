@@ -8,5 +8,5 @@
    
 3- Blue-green Deployment
    
-4- Canary Deployment
+4- Canary Deployment   
    

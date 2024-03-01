@@ -7,6 +7,6 @@
 2- Rollback Deployment
    
 3- Blue-green Deployment
-
+   
 4- Canary Deployment
    

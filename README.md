@@ -27,4 +27,5 @@ traffice will be rediract to V2 servers is known as Blue-green Deployment.
 in this case if have 4 servers in version v1 application new version v2 we create some %10 or 20 
 
 of traffice i'll be rediract to v2 if everythinks is ok then thay will rediract all traffice is 
+
 known as Canary Deployment

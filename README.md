@@ -16,7 +16,7 @@ thay back to version v1 application is known as Rolling back update Deployment
    
 3- Blue-green Deployment
 
-if we have 4 servers v1 and we need to deploy new version v2 we need to create a 4 new servers 
+if we have 4 servers v1 and we need to deploy new version v2 we need to create a 4 new servers   
 
 thay run both and than we rediract some traffice to v2 servers if everthik will be ok then all 
 

@@ -2,6 +2,8 @@
 
 ## we have 4 type of deployment strategies
 
+----------------------------------------------------------------------
+
 1- Recreate Deployment 
 
 Delete all current servers and deploy new servers is known as Re-createing Deployment.

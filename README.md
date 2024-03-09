@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------
 --------------------------------------------------------------------
 
-## Deployment Strategies: What Are They
+# Deployment Strategies: What Are They
 
 To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, 
 network traffic in a production environment is transitioned from the old version to the new version based on the firm's specialty. 
@@ -25,13 +25,13 @@ When the new version has been tested and certified to meet all the requirements,
 
 In addition to offering a quick update or rollout of a new application version, this strategy has the disadvantage of being expensive since both the new and old versions must run simultaneously. Engineers mostly use this method in mobile app development and deployment.
 
-Canary Deployments
+## Canary Deployments
 
 During canary deployment, the team responsible for deployment gradually redirects traffic from the older version to the new one. For instance, at a certain stage in the process, 90% of production traffic may still go through the older version while only 10% goes through the newer one. This approach allows DevOps engineers to evaluate the stability of the new version by using live traffic from a subset of end-users at varying levels throughout production.
 
 Canary Deployments enables better performance monitoring as well as faster and easier software rollbacks. However, it has a slow deployment cycle and requires more time.
 
-Recreate Deployment
+## Recreate Deployment
 
 The development team shuts down the old version of the application completely, deploys the new version, then reboots the whole system. This deployment method produces a system downtime between shutting down the old software and booting the new one.
 

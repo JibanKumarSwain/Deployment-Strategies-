@@ -4,13 +4,18 @@
 
 ----------------------------------------------------------------------
 --------------------------------------------------------------------
-To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, network traffic in a production environment is transitioned from the old version to the new version based on the firm's specialty. Deployment strategies can influence downtime and operational costs based on the company's specialty.
 
-Deployment Strategies of Different Types
+## Deployment Strategies: What Are They
+
+To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, 
+network traffic in a production environment is transitioned from the old version to the new version based on the firm's specialty. 
+Deployment strategies can influence downtime and operational costs based on the company's specialty.
+
+## Deployment Strategies of Different Types
 
 Now that we know what deployment strategies are, let's explore the different types of deployment strategies.
 
-Deployment in blue and green
+## Deployment in blue and green
 
 This deployment strategy involves running the new version of the software alongside the old version. Note that this is also known as a red/black deployment strategy.
 

@@ -30,7 +30,7 @@ expensive since both the new and old versions must run simultaneously. Engineers
 
 During canary deployment, the team responsible for deployment gradually redirects traffic from the older version to the new one. 
 For instance, at a certain stage in the process, 90% of production traffic may still go through the older version while only 10% goes 
-through the newer one. This approach allows DevOps engineers to evaluate the stability of the new version by using live traffic from 
+through the newer one. This approach allows DevOps engineers to evaluate the stability of the new version by using live traffic from      
 a subset of end-users at varying levels throughout production.
 
 Canary Deployments enables better performance monitoring as well as faster and easier software rollbacks. However, it has a slow deployment cycle and requires more time.

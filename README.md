@@ -29,7 +29,7 @@ expensive since both the new and old versions must run simultaneously. Engineers
 ## Canary Deployments
 
 During canary deployment, the team responsible for deployment gradually redirects traffic from the older version to the new one. 
-For instance, at a certain stage in the process, 90% of production traffic may still go through the older version while only 10% goes 
+For instance, at a certain stage in the process, 90% of production traffic may still go through the older version while only 10% goes     
 through the newer one. This approach allows DevOps engineers to evaluate the stability of the new version by using live traffic from      
 a subset of end-users at varying levels throughout production.
 

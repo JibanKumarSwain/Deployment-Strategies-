@@ -36,7 +36,7 @@ a subset of end-users at varying levels throughout production.
 Canary Deployments enables better performance monitoring as well as faster and easier software rollbacks. However, it has a slow deployment cycle and requires more time.
 
 ## Recreate Deployment
-
+      
 The development team shuts down the old version of the application completely, deploys the new version, then reboots the whole system. 
 This deployment method produces a system downtime between shutting down the old software and booting the new one.
 

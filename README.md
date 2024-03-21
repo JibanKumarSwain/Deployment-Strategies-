@@ -14,7 +14,7 @@ Deployment strategies can influence downtime and operational costs based on the 
 ## Deployment Strategies of Different Types     
 
 Now that we know what deployment strategies are, let's explore the different types of deployment strategies.
-
+    
 ## Deployment in blue and green
 
 This deployment strategy involves running the new version of the software alongside the old version. Note that this is also known as a red/black deployment strategy.

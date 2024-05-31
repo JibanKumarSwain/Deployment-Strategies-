@@ -6,7 +6,7 @@
 --------------------------------------------------------------------                           
                                                                                                         
 # Deployment Strategies: What Are They                                                                                                                                                                                                                                
-                                                                 
+                                                                      
 To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, 
 network traffic in a production environment is transitioned from the old version to the new version based on the firm's specialty.    
 Deployment strategies can influence downtime and operational costs based on the company's specialty.    

@@ -1,10 +1,10 @@
 # Deployment-Strategies for AWS EC2-   
-        
+         
 ## we have 4 type of deployment strategies                                                      
                                                                               
 ----------------------------------------------------------------------                                   
 --------------------------------------------------------------------                                   
-                                                                                                                                    
+                                                                                                                                     
 # Deployment Strategies: What Are They                                                                                                                                                                                                                                                                     
                                                                              
 To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, 

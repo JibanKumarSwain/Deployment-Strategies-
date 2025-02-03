@@ -4,7 +4,7 @@
                                                                               
 ----------------------------------------------------------------------                                           
 --------------------------------------------------------------------                                    
-                                                                                                                                                      
+                                                                                                         n                                             
 # Deployment Strategies: What Are They                                                                                                                                                                                                                                                                                                  
                                                                                    
 To successfully launch a new version of the software solution they provide, DevOps teams use deployment strategies. Using these techniques, 

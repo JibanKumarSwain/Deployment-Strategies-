@@ -25,7 +25,7 @@ When the new version has been tested and certified to meet all the requirements,
 
 In addition to offering a quick update or rollout of a new application version, this strategy has the disadvantage of being
 expensive since both the new and old versions must run simultaneously. Engineers mostly use this method in mobile app development and deployment.
-
+ 
 ## Canary Deployments
 
 During canary deployment, the team responsible for deployment gradually redirects traffic from the older version to the new one. 
